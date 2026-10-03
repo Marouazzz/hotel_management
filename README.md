@@ -1,6 +1,6 @@
-# 🏨 Royal Suite - Hotel Management System
+# 🏨 Hotel Management System
 
-Welcome to **Royal Suite**, a comprehensive desktop application designed to streamline hotel operations. Built with Java, this project features a robust, multi-server backend and an elegant JavaFX client, providing a seamless experience for hotel staff and management.
+This is a desktop application designed to streamline hotel operations. Built with Java, this project features a robust, multi-server backend and an elegant JavaFX client, providing a seamless experience for hotel staff and management.
 
 ## ✨ Key Features
 
@@ -14,7 +14,7 @@ Welcome to **Royal Suite**, a comprehensive desktop application designed to stre
 
 ## 🏗️ Architecture Overview
 
-The Royal Suite application is built on a distributed architecture, composed of several Maven modules:
+The application is built on a distributed architecture, composed of several Maven modules:
 
 *   **`hotel-common`**: A shared module containing JPA entities, business interfaces, and enums.
 *   **`hotel-rmi-server`**: An RMI-based server that exposes core services (Authentication, Room, Client, Reservation).
@@ -36,7 +36,7 @@ This architecture allows for a clear separation of concerns and demonstrates the
 
 ## 🚀 Getting Started
 
-To get the Royal Suite application up and running, you will need to have the following prerequisites installed on your system.
+To get the application up and running, you will need to have the following prerequisites installed on your system.
 
 ### Prerequisites
 
@@ -110,7 +110,3 @@ The following user accounts are created by default when the RMI server is starte
 *   **Employee:**
     *   **Username:** `employe`
     *   **Password:** `employe123`
-
-## 🖼️ Screenshots
-
-*(Placeholder for screenshots of the application)*
